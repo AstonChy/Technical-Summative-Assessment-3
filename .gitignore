@@ -1,0 +1,10 @@
+/vendor
+/.env
+/.phpunit.result.cache
+/storage/*.key
+/storage/pail
+/public/build
+/public/hot
+/public/storage
+/database/*.sqlite
+.DS_Store
